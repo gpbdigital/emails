@@ -1,0 +1,144 @@
+<mjml version="3.3.3">
+  <mj-body background-color="#FAFAFA">
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="0" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="header.png" width="600px" padding="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="18px" font-weight="600" line-height="1" padding="5px 25px 5px 25px">Publicis Dublin</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="36px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">Creative Update</mj-text>
+        <mj-spacer height="15px" />
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">Whatever the lockdown situation, creativity gets us through. We are very happy to share some of the recent work that gets us out of bed on these dark mornings.</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">Thank you to all our client partners who have been so supportive in such novel circumstances. We’re already working on many exciting projects that we can’t wait to bring you in 2021. </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="virgin-wellness.jpg" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="14px" font-weight="600" line-height="1" text-decoration="underline" padding="10px 25px 10px 25px">Virgin Media</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">Welcome to the Virgin Media Wellness Retreat... for TVs.</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">Our multi-channel campaign launches TV360, Virgin Media’s upgraded game-changing TV box, which will help people rejuvenate their underperforming TVs and live together in electric dreams.</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">This is the first major outing of a new brand idea and line we’ve developed for Virgin Media, ‘Bring on Amazing’. </mj-text>
+        <mj-button href="https://publicis.ie/work/virgin-media-bring-on-amazing" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff"> Watch Video </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image src="hse.jpg" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="14px" font-weight="600" line-height="1" text-decoration="underline" padding="10px 25px 10px 25px">HSE</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">Keep your guard up. </mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">With COVID-19 cases rising by the day and the whole country moving towards Level 5 Restrictions, we were tasked with empowering the Irish public to do everything they can to limit the spread of the virus. So we made an invisible threat more tangible and reminded people what happens when we drop our guard.</mj-text>
+        <mj-button href="https://www.youtube.com/watch?v=y78DhKRxjQs&ab_channel=HSEIreland" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff"> Watch Video </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="standard-life.jpg" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="14px" font-weight="600" line-height="1" text-decoration="underline" padding="10px 25px 10px 25px">Standard Life</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">The End of Career Guidance Counsellor</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">To help solve the very real problem of retirement anxiety we partnered with Standard Life to create a new role in the organisation, someone dedicated to guiding customers towards a successful Second Life. And who was chosen to fill the position? Naturally the country’s top guidance guru. Meet Standard Life’s newest recruit, The End of Career Guidance Counsellor. </mj-text>
+        <mj-button href="https://vimeo.com/476276427" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff"> Watch Video </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="ptsb.jpg" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="14px" font-weight="600" line-height="1" text-decoration="underline" padding="10px 25px 10px 25px">Permanent TSB</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">Permanent Support </mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">A new brand campaign that demonstrates the unique relationship between the bank’s people and their customers. Our AV tells the story of a relationship and the search for a dream home, but with a twist… </mj-text>
+        <mj-button href="https://twitter.com/publicisdublin/status/1321133581901668352" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff"> Watch Video </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="virgin-speed.gif" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="14px" font-weight="600" line-height="1" text-decoration="underline" padding="10px 25px 10px 25px">Virgin Media</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">Speed Obsessed </mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">With the introduction of 1Gig Broadband from Virgin Media, Ireland’s fastest broadband network became even faster. To launch the new product, we got Emmy Award winning actor Brian Cox to narrate epic audio stories of the speed obsessives who also wanted to become even faster. We then went on a mission to see if anyone could beat the world record for speed blinking with our Instagram AR Effect ‘Blink Fast’. </mj-text>
+        <mj-button href="https://www.instagram.com/ar/236813917653120/" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff"> Try Effect (Click from mobile) </mj-button>
+      </mj-column>
+    </mj-section>
+   <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="flogas.png" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="14px" font-weight="600" line-height="1" text-decoration="underline" padding="10px 25px 10px 25px">Flogas</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">No need to hibernate for these Three Bears</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">Staying warm when you live off the gas grid can be quite a challenge. Flogas has the solution with a fully integrated LPG energy system. And who better to tell us how well it works than the Three Bears who live deep in the woods. The first campaign for our new client (welcome aboard!) brings this fairy tale to life with long form radio and smart digital executions.</mj-text>
+        <mj-button href="https://mcusercontent.com/9195d3ba678fd0fb163514377/files/cf465d25-1695-4872-b448-9fbad557de8f/FloGas_The_3_Bears.mp3" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff">Listen </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="comein.gif" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">#ComeIn</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">Last year we worked with BeLong To Youth Services, IAPI and an interagency team to support LGBTI+ people and develop the #ComeIn campaign around the belief that nobody would have to come out if everyone chose to come in. This year during Stand Up Awareness Week, we gave people the chance to show their support and solidarity in a new way, by using the #ComeIn icon as their canvas.</mj-text>
+        <mj-button href="https://www.belongto.org/comein/" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff">Find out more</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="10px 0" text-align="center">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="#474B5A" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding="10px 0px 10px 0px" text-align="center">
+      <mj-column>
+        <mj-image alt="" src="hug.jpg" width="600px" padding="10px 25px"></mj-image>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="26px" font-weight="600" line-height="1" padding="0px 25px 0px 25px">A Hug For U</mj-text>
+        <mj-text align="left" color="#474B5A" font-family="Arial, sans-serif" font-size="16px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">And finally we’d like to feature this beautiful tribute to Adam from The Late Late Toy Show by our own Cerys Murphy.
+Set in ruins around Camden St, Cery’s artwork of Adam’s ‘virtual hug’ is capturing the imagination of many and was featured on RTE News.</mj-text>
+        <mj-button href="https://lovindublin.com/dublin/pics-a-new-mural-inspired-by-toy-show-adams-virtual-hug-sign-has-popped-up-in-dublin" font-family="Arial, sans-serif" background-color="#FD6371" font-size="14px" color="#fff">Find out more</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-social font-size="15px" border-radius="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element  name="twitter" href="https://twitter.com/publicisdublin"></mj-social-element>
+          <mj-social-element  name="web" href="https://twitter.com/publicisdublin"></mj-social-element>
+          <mj-social-element  name="instagram" href="https://www.instagram.com/publicisdublin/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" color="#474B5A" font-family="Arial, sans-serif" font-size="11px" font-weight="200" line-height="18px" padding="10px 25px 10px 25px">© 2020 Publicis Dublin /// Level 4, The Observatory 7-11 Sir John Rogerson's Quay Dublin 2</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
